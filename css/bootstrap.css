@@ -844,7 +844,7 @@ th {
 
 .glyphicon-hand-up:before {
     content: "\e129"
-}
+}o
 
 .glyphicon-hand-down:before {
     content: "\e130"
@@ -2067,6 +2067,28 @@ pre code {
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px
+}
+
+.col-sm-13 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.col-sm-13 > ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    list-style-type: disc;
+    text-align: start;
+}
+
+.col-sm-13 > ul > li {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
 }
 
 .col-xs-1,
