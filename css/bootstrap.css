@@ -2097,6 +2097,7 @@ pre code {
     display: flex;
     align-items: center;
     height: 48px;
+    font-weight: 600;
 }
 
 .col-xs-1,
