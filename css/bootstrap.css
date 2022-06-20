@@ -2089,7 +2089,14 @@ pre code {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    height: 48px;
    
+}
+
+.col-sm-13 > ul > li > a {
+    display: flex;
+    align-items: center;
+    height: 48px;
 }
 
 .col-xs-1,
@@ -7705,8 +7712,6 @@ button.close {
     margin: 1px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #000\9;
-    background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
     border-radius: 10px
 }
