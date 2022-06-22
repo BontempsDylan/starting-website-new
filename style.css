@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/Photo modifié/texture_paper_lossless.webp");
     background-size: 280px 280px;
 }
 
@@ -782,7 +782,11 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important; 
+    color: #DA5416!important; 
+}
+
+.tc-white-ligth {
+    color: #F19B74!important;  
 }
 
 .btn-atomic-tangerine {
@@ -817,20 +821,19 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/Photo modifié/dots_bg_lossless.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/Photo modifié/lines_h2_bg_lossless.webp");
 }
 
 .bg-banniere {
     background-image: url("img/agence-la-panthere.jpg");
 }
 
-/* TODO mention the really big size of this image in the analysis report */
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/Photo modifié/image_de_presentation_lossless.webp");
 }
 
 @media (max-width: 1024px) {
