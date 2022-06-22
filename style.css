@@ -651,8 +651,8 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
-    color: #1A1A1A!important;
+    font-weight: 200;
+    color: #000000!important;
 }
 
 .container {
@@ -782,10 +782,14 @@ h4 {
 }
 
 .tc-white {
+    color: white!important;
+}
+
+.tc-orange {
     color: #DA5416!important; 
 }
 
-.tc-white-ligth {
+.tc-orange-ligth {
     color: #F19B74!important;  
 }
 

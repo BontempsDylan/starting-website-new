@@ -1786,7 +1786,8 @@ ol,
 ul {
     margin-top: 0;
     margin-bottom: 10px;
-    padding-left: 80px;
+    padding-left: 100px;
+    list-style: disc;
 }
 
 ol ol,
@@ -2074,7 +2075,7 @@ pre code {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    
 }
 
 .col-sm-13 > ul {
