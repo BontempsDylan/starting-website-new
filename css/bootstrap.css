@@ -2074,8 +2074,7 @@ pre code {
 .col-sm-13 {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    
+    align-items: center;   
 }
 
 .col-sm-13 > ul {
